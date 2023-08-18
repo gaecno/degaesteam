@@ -1,0 +1,6 @@
+$header_color: pink;
+$primary_color: #00819E;
+$secondary_color: grey;
+$primary_comp_color: complement($primary_color);
+$primary_light_color: lighten($primary_color, 40);
+$primary_dark_color: darken($primary_color, 10);
